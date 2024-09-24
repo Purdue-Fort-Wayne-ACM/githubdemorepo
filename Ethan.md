@@ -4,3 +4,5 @@ Hi my name is Ethan, I am:
 - majoring in Mechanical Engineering
 - also majoring in Business
 - excited to learn more about coding
+
+## Change 
