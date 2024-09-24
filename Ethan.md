@@ -1,4 +1,4 @@
-# Ethan's Introducton
+# ~~Ethan's~~ Isaac's Introducton
 Hi my name is Ethan, I am:
 - a sophomore
 - majoring in Mechanical Engineering
